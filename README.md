@@ -1,2 +1,2 @@
 # crankin
-text rearranger
+crankin' text rearranger
